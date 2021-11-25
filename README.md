@@ -13,13 +13,17 @@ Site published at: https://front-end-by-rimantas.github.io/32-grupe-serlokas/
 
 Design: [Serlokas](https://cdn.discordapp.com/attachments/648536139677958156/648860542743740428/404-Web-Page-Design-Examples-6.png)
 
-![GitHub Light](https://www.pinclipart.com/picdir/middle/537-5378142_sherlock-holmes-clipart-png-download.png#gh-light-mode-only|width=50)
+
 
 ### Project features
 
 -   **Github pages**
 -   **CSS**
 -   **Image**
+
+
+![GitHub Light](https://www.seekpng.com/png/detail/190-1902147_sherlock-holmes-clipart-mystery-person-sherlock-holmes-xd.png)
+
 
 ### Authors
 
