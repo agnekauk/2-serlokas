@@ -17,9 +17,9 @@ Design: [Serlokas](https://cdn.discordapp.com/attachments/648536139677958156/648
 
 ## Project features
 
--   **Github pages**
--   **CSS**
--   **Image**
+-   ***Github pages***
+-   ***CSS***
+-   ***Image***
 
 
 ![GitHub Light](https://www.seekpng.com/png/detail/190-1902147_sherlock-holmes-clipart-mystery-person-sherlock-holmes-xd.png)
