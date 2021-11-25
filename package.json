@@ -1,15 +1,15 @@
 {
   "name": "2-serlokas",
   "version": "1.0.0",
-  "description": "",
+  "description": "Pirmasis, siek tiek normalesnio dizaino projektas 👀",
   "main": "index.js",
   "scripts": {
-    "dev": "live-server",
+    "dev": "live-server --port=3000, --host=localhost",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Agne",
+  "license": "MIT",
   "dependencies": {
     "live-server": "^1.2.1"
   }
