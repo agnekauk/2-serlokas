@@ -7,23 +7,25 @@
 
 _32 group website project_
 
-This project is for **educational** porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
+This project is for **educational** porpuses only. Pull request are welcome, but priority for project authors! ***Thank you for your cooperation!***
 
 Site published at: https://front-end-by-rimantas.github.io/32-grupe-serlokas/
 
 Design: [Serlokas](https://cdn.discordapp.com/attachments/648536139677958156/648860542743740428/404-Web-Page-Design-Examples-6.png)
 
-## Project features
+![GitHub Light](https://www.pinclipart.com/picdir/middle/537-5378142_sherlock-holmes-clipart-png-download.png#gh-light-mode-only)
 
--   Github pages
--   CSS
--   Image
+### Project features
 
-## Authors
+-   **Github pages**
+-   **CSS**
+-   **Image**
 
-Rimantas: [Github](https://github.com/belauzas)
+### Authors
 
-## Code sample
+Agne: [Github](https://agnekauk.github.io/2-serlokas/)
+
+### Code sample
 
 ```html
 <head>
