@@ -11,17 +11,15 @@ body {
 .left {
     display: inline-block;
     width: 40%;
-    float: left;
     padding-top: 19%;
 }
 .img {
     width: 100%;
 }
 .right {
-    display: inline-block;
-    width: 50%;
     float: right;
-    padding-top: 21%;
+    width: 50%;
+    padding-top: 23%;
     text-align: center;
 }
 .title {
